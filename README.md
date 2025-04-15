@@ -14,7 +14,7 @@ Vide tutoriais do PI.
 
 ## Nome do Grupo
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Felipe Mathey</a>, <a href="https://www.linkedin.com/in/victorbarq/">Guilherme Monteiro</a>, <a href="https://www.linkedin.com/in/laisnavarro3110/">Laís Navarro</a>, <a href="https://www.linkedin.com/in/victorbarq/">Raphael Santos</a>,e <a href="https://www.linkedin.com/in/victorbarq/">Pedro Costa</a>.
+## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Felipe Mathey</a>, <a href="https://www.linkedin.com/in/victorbarq/">Guilherme Monteiro</a>, <a href="https://www.linkedin.com/in/laisnavarro3110/">Laís Navarro</a>, <a href="https://www.linkedin.com/in/victorbarq/">Raphael Santos</a> e <a href="https://www.linkedin.com/in/victorbarq/">Pedro Costa</a>.
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
