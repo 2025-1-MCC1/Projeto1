@@ -35,11 +35,16 @@ May the force be with you!
 
 ## 🛠 Estrutura de pastas
 
--Raiz<br>
-|<br>
-|-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
+-Raiz
+│
+├── entregas
+│   ├── entrega 1
+│   │   ├── entrega Cálculo 1
+│   │   ├── entrega Algoritmos e Lógica de Programação
+│   │   ├── entrega Ética e Pensamento Computacional
+│   │   ├── entrega Jogos Digitais e Sistemas Digitais Interativos
+│   │   └── entrega Projeto Interdisciplinar: Jogos Digitais
+│   └── entrega 2
 |-->executáveis<br>
   &emsp;|-->windows<br>
   &emsp;|-->android<br>
