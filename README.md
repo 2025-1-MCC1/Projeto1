@@ -64,9 +64,9 @@ A pasta raiz contem dois arquivos que devem ser alterados:
 
 Há também 4 pastas que seguem da seguinte forma:
 
-<b>documentos</b>: Toda a documentação estará nesta pasta.
+<b>Entrega 1</b>: Todas as entregas do dia 22 de Abril, de todas as matérias, estarão nesta pasta.
 
-<b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
+<b>Entrega 2</b>: Todas as entregas do dia 18 de Maio, de todas as matérias, estarão nesta pasta.
 
 <b>imagens</b>: Imagens do sistema
 
