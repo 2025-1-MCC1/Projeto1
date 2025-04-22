@@ -21,11 +21,10 @@
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+EcoMayors é um jogo onde o jogador assume o papel de prefeito de uma cidade moderna. A missão é tomar decisões que impactam diretamente o bem-estar da população e a preservação do meio ambiente. Cada escolha tem consequências: ações sustentáveis impulsionam o desenvolvimento da cidade, melhoram a qualidade de vida dos cidadãos e aumentam a reputação do jogador. Por outro lado, decisões irresponsáveis comprometem o futuro da cidade, geram crises e podem até levar à perda do cargo de prefeito.
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
+Com uma mecânica envolvente e desafios progressivos, o jogo incentiva o raciocínio lógico, a responsabilidade social e a visão estratégica. O jogador precisa equilibrar crescimento urbano, economia e sustentabilidade, enfrentando dilemas reais como escassez de recursos, poluição e pressão popular. É uma experiência interativa que mistura diversão com conscientização, tornando o aprendizado sobre cidadania e meio ambiente algo dinâmico e cativante.
+
 <br><br>
 
 ## 🛠 Estrutura de pastas
