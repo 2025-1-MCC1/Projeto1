@@ -11,7 +11,8 @@
 
 ## Integrantes: <a> Felipe Mathey</a>, <a> Guilherme Monteiro</a>, <a href="https://www.linkedin.com/in/laisnavarro3110/">Laís Navarro</a>, <a https://www.linkedin.com/in/raphael-de-oliveira-santos-b36797330/> Raphael Santos</a> e <a> Pedro Costa</a>.
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a> e <a> Joyce Silva</a> <a https://www.linkedin.com/in/adriano-valente-534576135/> Adriano Felix Valente</a>.
+Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a> , <a> Joyce Silva</a>,<a href="https://www.linkedin.com/in/adriano-valente-534576135/"> Adriano Felix Valente </a> , <a href="https://www.linkedin.com/in/remuniz/"> Renata Muniz do Nascimento</a> , <a> Luis Fernando</a>.
+
 
 ## Descrição
 
