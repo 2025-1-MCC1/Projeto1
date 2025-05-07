@@ -17,7 +17,7 @@
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
+<img src="[https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO](https://private-user-images.githubusercontent.com/203136721/441208526-2dce1fbd-c8d4-4286-825a-8e47ca742f61.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY2MTY2NjYsIm5iZiI6MTc0NjYxNjM2NiwicGF0aCI6Ii8yMDMxMzY3MjEvNDQxMjA4NTI2LTJkY2UxZmJkLWM4ZDQtNDI4Ni04MjVhLThlNDdjYTc0MmY2MS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwN1QxMTEyNDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMmYwM2FiMjdmODVhMjk1ZGI5YThlMjBlYWNhZTJjMjYyYjJjOGE0NmQ2NmQ1NjZjNTJkOWVmNTFhYjU2MmViJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.GavTLIWb4rvtZdI_zSdh52deI4BvzlXlDsIAsNrc5Ps)" border="0">
   Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
