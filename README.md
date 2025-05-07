@@ -18,7 +18,7 @@
 
 <p align="center">
 <img src="https://github.com/2025-1-MCC1/Projeto1/blob/main/imagens/ChatGPT%20Image%207%20de%20mai.%20de%202025%2C%2008_03_42.png" alt="EcoMayor - Imagem do Jogo" border="0">
-  Game by <a  >ChatGPT</a> 
+  Imagem by <a  >ChatGPT</a> 
 </p>
 
 
