@@ -9,14 +9,15 @@
 
 ## CodeCrafters
 
-## Integrantes: <a> Felipe Mathey</a>, <a> Guilherme Monteiro</a>, <a href="https://www.linkedin.com/in/laisnavarro3110/">Laís Navarro</a>, <a> Raphael Santos</a> e <a> Pedro Costa</a>.
+## Integrantes: <a> Felipe Mathey</a>, <a> Guilherme Monteiro</a>, <a href="https://www.linkedin.com/in/laisnavarro3110/">Laís Navarro</a>, <a href="https://www.linkedin.com/in/raphael-de-oliveira-santos-b36797330/"> Raphael Santos</a> e <a> Pedro Costa</a>.
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a> e <a> Joyce Silva</a>.
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a> , <a> Joyce Silva</a>,<a href="https://www.linkedin.com/in/adriano-valente-534576135/"> Adriano Felix Valente </a> , <a href="https://www.linkedin.com/in/remuniz/"> Renata Muniz do Nascimento</a> e <a> Luis Fernando</a>.
+
 
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
+<img src="https://private-user-images.githubusercontent.com/203136721/441208526-2dce1fbd-c8d4-4286-825a-8e47ca742f61.png?">
   Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
