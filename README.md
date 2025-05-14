@@ -76,12 +76,10 @@ Há também 4 pastas que seguem da seguinte forma:
 
 <b>Android:</b>
 
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
+Por Enquanto sem suporte
 
-```sh
-Coloque código do prompt de comnando se for necessário
-```
+
+
 
 <b>Windows:</b>
 
