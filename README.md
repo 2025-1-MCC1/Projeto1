@@ -122,5 +122,6 @@ Aqui estão as referências usadas no projeto.
 2. <https://assetstore.unity.com/packages/3d/environments/simplepoly-city-low-poly-assets-58899>
 3. <https://assetstore.unity.com/packages/3d/environments/wasteovergrowth-comprehensive-trash-and-waste-pack-290387>
 4. <https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353>
-5. <https://creativecommons.org/chooser/>
-6.<https://chatgpt.com/>
+5. <https://creativecommons.org/licenses/by/4.0/>
+6. <https://chatgpt.com/>
+   
