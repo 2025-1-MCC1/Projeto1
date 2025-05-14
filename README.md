@@ -112,7 +112,7 @@ Coloque código do prompt de comnando se for necessário
 ```
 
 ## 📋 Licença/License
- <a href="https://github.com/2025-1-MCC1/Projeto1?tab=readme-ov-file">EcoMayor</a> © 2025 by <a href="https://creativecommons.org">Felipe Mathey, Guilherme Monteiro, Laís Navarro, Raphael Santos e Pedro Costa.</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+ <a href="https://github.com/2025-1-MCC1/Projeto1?tab=readme-ov-file">EcoMayor</a> © 2025 by Felipe Mathey, Guilherme Monteiro, Laís Navarro, Raphael Santos e Pedro Costa.</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
 
 ## 🎓 Referências
 
