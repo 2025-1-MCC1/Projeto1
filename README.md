@@ -30,47 +30,54 @@ Com uma mecânica envolvente e desafios progressivos, o jogo incentiva o racioc�
 
 ## 🛠 Estrutura de pastas
 
--Raiz
+<pre>
+├── Raiz
 │
-├── entregas
-
+├── Documentos
 │   ├── entrega 1
-
-│   │   ├── entrega Cálculo 1
-
 │   │   ├── entrega Algoritmos e Lógica de Programação
-
+│   │   ├── entrega Cálculo I
 │   │   ├── entrega Ética e Pensamento Computacional
-
 │   │   ├── entrega Jogos Digitais e Sistemas Digitais Interativos
-
-│   │   └── entrega Projeto Interdisciplinar: Jogos Digitais
-
+│   │   └── entrega Projeto Interdisciplinar Jogos Digitais
 │   └── entrega 2
+│       ├── entrega Algoritmos e Lógica de Programação
+│       ├── entrega Cálculo I
+│       ├── entrega Ética e Pensamento Computacional
+│       ├── entrega Jogos Digitais e Sistemas Digitais Interativos
+│       └── entrega Projeto Interdisciplinar
+│
+├── Imagens
+│ 
+├── Src
+│   └── EcoMayor
+│       ├── Assets
+│       ├── Packages
+│       ├── ProjectSettings
+│       ├── .gitignore
+│       └── .vsconfig
+|
+├── Executável
+|  
+└── readme.md
+</pre>
 
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
-|-->imagens<br>
-|-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
-|readme.md<br>
-
-A pasta raiz contem dois arquivos que devem ser alterados:
 
 <b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
 
-Há também 4 pastas que seguem da seguinte forma:
+Há também 6 pastas que seguem da seguinte forma:
 
-<b>Entrega 1</b>: Todas as entregas do dia 22 de Abril, de todas as matérias, estarão nesta pasta.
+<b>Documentos</b>: Pasta com todos os documentos importantes do jogo.
 
-<b>Entrega 2</b>: Todas as entregas do dia 18 de Maio, de todas as matérias, estarão nesta pasta.
+<b>├── entregas 1</b>: Todas as entregas do dia 22 de Abril, de todas as materias, estará nesta pasta.
 
-<b>imagens</b>: Imagens do sistema
+<b>└── entregas 2</b>: Todas as entregas do dia 18 de Maio, de todas as materias, estará nesta pasta.
 
-<b>src</b>: Pasta que contém o código fonte.
+<b>Imagens</b>: Pasta com todas imagens usadas no jogo.
+
+<b>Src</b>: Pasta com todos os arquivos do jogo.
+
+<b>Executável</b>: Pasta com todos o arquivo executável do jogo.
 
 ## 🛠 Instalação
 
