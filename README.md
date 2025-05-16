@@ -122,4 +122,4 @@ Aqui estão as referências usadas no projeto.
 4. <https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353>
 5. <https://creativecommons.org/licenses/by/4.0/>
 6. <https://chatgpt.com/>
-   
+7. Música por:<https://suno.com/> com Licença CC 0.
