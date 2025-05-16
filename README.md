@@ -97,6 +97,10 @@ Encontre o index.html na pasta executáveis e execute-o como uma página WEB (at
 
 ## 💻 Configuração para Desenvolvimento
 
+#### Como importar o projeto para dentro da Unity?
+
+Para abrir este projeto dentro da engine da Unity, siga os seguintes passos:
+
 <ol>
  <li>Instale a <a href="https://unity.com/pt">Unity</a></li>
  <li>Baixe os arquivos presentes na pasta geral do <a href="https://github.com/2025-1-MCC1/Projeto1/tree/main/src/Entrega%202">Projeto1</a> (Download ZIP)</li>
