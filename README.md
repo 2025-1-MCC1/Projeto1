@@ -65,7 +65,7 @@ Com uma mecânica envolvente e desafios progressivos, o jogo incentiva o racioc�
 
 <b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
 
-Há também 6 pastas que seguem da seguinte forma:
+Há também 5 pastas que seguem da seguinte forma:
 
 <b>Documentos</b>: Pasta com todos os documentos importantes do jogo.
 
@@ -77,7 +77,7 @@ Há também 6 pastas que seguem da seguinte forma:
 
 <b>Src</b>: Pasta com todos os arquivos do jogo.
 
-<b>Executável</b>: Pasta com todos o arquivo executável do jogo.
+
 
 ## 🛠 Instalação
 
