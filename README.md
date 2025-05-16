@@ -69,9 +69,9 @@ Há também 5 pastas que seguem da seguinte forma:
 
 <b>Documentos</b>: Pasta com todos os documentos importantes do jogo.
 
-<b>├── entregas 1</b>: Todas as entregas do dia 22 de Abril, de todas as materias, estará nesta pasta.
+<b>├── entregas 1</b>: Todas as entregas do dia 22 de Abril, de todas as materias, estarão nesta pasta.
 
-<b>└── entregas 2</b>: Todas as entregas do dia 18 de Maio, de todas as materias, estará nesta pasta.
+<b>└── entregas 2</b>: Todas as entregas do dia 18 de Maio, de todas as materias, estarão nesta pasta.
 
 <b>Imagens</b>: Pasta com todas imagens usadas no jogo.
 
