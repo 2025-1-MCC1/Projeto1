@@ -97,17 +97,11 @@ Encontre o index.html na pasta executáveis e execute-o como uma página WEB (at
 
 ## 💻 Configuração para Desenvolvimento
 
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
-
-Para abrir este projeto você necessita das seguintes ferramentas:
-
--<a href="https://unity.com/pt/download">UNITY</a>
-
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
-```
+<ol>
+ <li>Instale a <a href="https://unity.com/pt">Unity</a></li>
+ <li>Baixe os arquivos presentes na pasta geral do <a href="https://github.com/2025-1-MCC1/Projeto1/tree/main/src/Entrega%202">Projeto1</a> (Download ZIP)</li>
+ <li>Crie um novo projeto na Unity a partir dos arquvivos baixados presentes na pasta Src</li>
+</ol>
 
 ## 📋 Licença/License
  <a href="https://github.com/2025-1-MCC1/Projeto1?tab=readme-ov-file">EcoMayor</a> © 2025 by Felipe Mathey, Guilherme Monteiro, Laís Navarro, Raphael Santos e Pedro Costa.</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
