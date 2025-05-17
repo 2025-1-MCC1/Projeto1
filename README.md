@@ -93,9 +93,7 @@ Por Enquanto sem suporte
 Não há instalação! Apenas executável!
 Encontre o EcoMayor.exe na pasta EcoMayor-Build e execute-o como qualquer outro programa.
 
-```sh
-Coloque código do prompt de comnando se for necessário
-```
+``<li>Instale o <a href="https://www.microsoft.com/pt-br/download/details.aspx?id=35&msockid=13332e20091f6d2f37b03ac808666c59">DirectX 12</a></li>
 
 <b>HTML:</b>
 
@@ -110,7 +108,6 @@ Para abrir este projeto dentro da engine da Unity, siga os seguintes passos:
 
 <ol>
  <li>Instale a <a href="https://unity.com/pt">Unity</a></li>
-<li>Instale o <a href="https://www.microsoft.com/pt-br/download/details.aspx?id=35&msockid=13332e20091f6d2f37b03ac808666c59">DirectX 12</a></li>
  <li>Baixe os arquivos presentes na pasta geral do <a href="https://github.com/2025-1-MCC1/Projeto1/tree/main/src/Entrega%202">Projeto1</a> (Download ZIP)</li>
  <li>Crie um novo projeto na Unity a partir dos arquvivos baixados presentes na pasta Src</li>
 </ol>
