@@ -91,7 +91,7 @@ Por Enquanto sem suporte
 <b>Windows:</b>
 
 Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
+Encontre o EcoMayor.exe na pasta EcoMayor-Build e execute-o como qualquer outro programa.
 
 ```sh
 Coloque código do prompt de comnando se for necessário
