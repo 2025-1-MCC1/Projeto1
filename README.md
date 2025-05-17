@@ -96,7 +96,7 @@ Encontre o EcoMayor.exe na pasta EcoMayor-Build e execute-o como qualquer outro 
 <li>Instale o <a href="https://www.microsoft.com/pt-br/download/details.aspx?id=35&msockid=13332e20091f6d2f37b03ac808666c59">DirectX 12</a></li>
 
 
-<b>HTML:</b>
+##<b>HTML:</b>
 
 Não há instalação!
 Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
