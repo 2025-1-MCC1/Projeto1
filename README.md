@@ -109,7 +109,7 @@ Para abrir este projeto dentro da engine da Unity, siga os seguintes passos:
 <ol>
  <li>Instale a <a href="https://unity.com/pt">Unity</a></li>
  <li>Baixe os arquivos presentes na pasta geral do <a href="https://github.com/2025-1-MCC1/Projeto1/tree/main/src/Entrega%202">Projeto1</a> (Download ZIP)</li>
- <li>Crie um novo projeto na Unity a partir dos arquvivos baixados presentes na pasta Src</li>
+ <li>Crie um novo projeto na Unity a partir dos arquivos baixados presentes na pasta Src</li>
 </ol>
 
 ## 📋 Licença/License
