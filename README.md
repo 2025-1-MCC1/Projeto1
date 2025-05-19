@@ -91,11 +91,10 @@ Por Enquanto sem suporte
 <b>Windows:</b>
 
 Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
+Encontre o EcoMayor.exe na pasta EcoMayor-Build e execute-o como qualquer outro programa.
 
-```sh
-Coloque código do prompt de comnando se for necessário
-```
+<li>Instale o <a href="https://www.microsoft.com/pt-br/download/details.aspx?id=35&msockid=13332e20091f6d2f37b03ac808666c59">DirectX 12</a></li>
+
 
 <b>HTML:</b>
 
@@ -127,4 +126,5 @@ Aqui estão as referências usadas no projeto.
 4. <https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353>
 5. <https://creativecommons.org/licenses/by/4.0/>
 6. <https://chatgpt.com/>
-7. Música por:<https://suno.com/> com Licença CC 0.
+7. <https://www.flaticon.com/br/>
+8. Música por:<https://suno.com/> com Licença CC 0.
