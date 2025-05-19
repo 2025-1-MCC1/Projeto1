@@ -91,14 +91,14 @@ Por Enquanto sem suporte
 <b>Windows:</b>
 
 Não há instalação! Apenas executável!
-Encontre o EcoMayor.exe na pasta EcoMayor-Build e execute-o como qualquer outro programa.
+Encontre o EcoMayor.exe na pasta Executaveis e depois EcoMayor-Build e execute-o como qualquer outro programa.
 
 
 
 <b>HTML:</b>
 
 Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
+Encontre o index.html na pasta executáveis e depois EcoMayor-Web execute-o como uma página WEB (através de algum browser).
 
 ## 💻 Configuração para Desenvolvimento
 
