@@ -106,6 +106,13 @@ CrashReportingSettings.asset
 # TextMesh Pro (mantém os .asset mas ignora arquivos temporários)
 TextMesh Pro/*.tmp
 
+# Ignora pacotes Unity grandes
+*.unitypackage
+
+# Ignora a pasta com arquivos pesados
+Assets/URP_WasteOvergrowth_SA/
+Assets/HDRP_WasteOvergrowth_SA/
+
 # ReSharper e Rider
 _ReSharper*/
 *.DotSettings.user

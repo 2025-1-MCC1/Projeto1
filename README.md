@@ -30,47 +30,54 @@ Com uma mecânica envolvente e desafios progressivos, o jogo incentiva o racioc�
 
 ## 🛠 Estrutura de pastas
 
--Raiz
+<pre>
+├── Raiz
 │
-├── entregas
-
+├── Documentos
 │   ├── entrega 1
-
-│   │   ├── entrega Cálculo 1
-
 │   │   ├── entrega Algoritmos e Lógica de Programação
-
+│   │   ├── entrega Cálculo I
 │   │   ├── entrega Ética e Pensamento Computacional
-
 │   │   ├── entrega Jogos Digitais e Sistemas Digitais Interativos
-
-│   │   └── entrega Projeto Interdisciplinar: Jogos Digitais
-
+│   │   └── entrega Projeto Interdisciplinar Jogos Digitais
 │   └── entrega 2
+│       ├── entrega Algoritmos e Lógica de Programação
+│       ├── entrega Cálculo I
+│       ├── entrega Ética e Pensamento Computacional
+│       ├── entrega Jogos Digitais e Sistemas Digitais Interativos
+│       └── entrega Projeto Interdisciplinar
+│
+├── Imagens
+│ 
+├── Src
+│   └── EcoMayor
+│       ├── Assets
+│       ├── Packages
+│       ├── ProjectSettings
+│       ├── .gitignore
+│       └── .vsconfig
+|
+├── Executável
+|  
+└── readme.md
+</pre>
 
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
-|-->imagens<br>
-|-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
-|readme.md<br>
-
-A pasta raiz contem dois arquivos que devem ser alterados:
 
 <b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
 
-Há também 4 pastas que seguem da seguinte forma:
+Há também 5 pastas que seguem da seguinte forma:
 
-<b>Entrega 1</b>: Todas as entregas do dia 22 de Abril, de todas as matérias, estarão nesta pasta.
+<b>Documentos</b>: Pasta com todos os documentos importantes do jogo.
 
-<b>Entrega 2</b>: Todas as entregas do dia 18 de Maio, de todas as matérias, estarão nesta pasta.
+<b>├── entregas 1</b>: Todas as entregas do dia 22 de Abril, de todas as materias, estarão nesta pasta.
 
-<b>imagens</b>: Imagens do sistema
+<b>└── entregas 2</b>: Todas as entregas do dia 18 de Maio, de todas as materias, estarão nesta pasta.
 
-<b>src</b>: Pasta que contém o código fonte.
+<b>Imagens</b>: Pasta com todas imagens usadas no jogo.
+
+<b>Src</b>: Pasta com todos os arquivos do jogo.
+
+
 
 ## 🛠 Instalação
 
@@ -84,30 +91,26 @@ Por Enquanto sem suporte
 <b>Windows:</b>
 
 Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
+Encontre o EcoMayor.exe na pasta Executaveis e depois EcoMayor-Build e execute-o como qualquer outro programa.
 
-```sh
-Coloque código do prompt de comnando se for necessário
-```
+
 
 <b>HTML:</b>
 
 Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
+Encontre o index.html na pasta executáveis e depois EcoMayor-Web execute-o como uma página WEB (através de algum browser).
 
 ## 💻 Configuração para Desenvolvimento
 
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
+#### Como importar o projeto para dentro da Unity?
 
-Para abrir este projeto você necessita das seguintes ferramentas:
+Para abrir este projeto dentro da engine da Unity, siga os seguintes passos:
 
--<a href="https://unity.com/pt/download">UNITY</a>
-
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
-```
+<ol>
+ <li>Instale a <a href="https://unity.com/pt">Unity</a></li>
+ <li>Baixe os arquivos presentes na pasta geral do <a href="https://github.com/2025-1-MCC1/Projeto1/tree/main/src/Entrega%202">Projeto1</a> (Download ZIP)</li>
+ <li>Crie um novo projeto na Unity a partir dos arquivos baixados presentes na pasta Src</li>
+</ol>
 
 ## 📋 Licença/License
  <a href="https://github.com/2025-1-MCC1/Projeto1?tab=readme-ov-file">EcoMayor</a> © 2025 by Felipe Mathey, Guilherme Monteiro, Laís Navarro, Raphael Santos e Pedro Costa.</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
@@ -122,4 +125,5 @@ Aqui estão as referências usadas no projeto.
 4. <https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353>
 5. <https://creativecommons.org/licenses/by/4.0/>
 6. <https://chatgpt.com/>
-7. Música por:<https://suno.com/> com Licença CC 0.
+7. <https://www.flaticon.com/br/>
+8. Música por:<https://suno.com/> com Licença CC 0.
